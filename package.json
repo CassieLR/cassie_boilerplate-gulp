@@ -1,0 +1,14 @@
+{
+  "name": "Cassie-Gulp",
+  "version": "1.0.0",
+  "description": "Cassie-Gulp",
+  "main": "gulpfile.js",
+  "author": "Cassie",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-less": "^3.0.3"
+  }
+}
